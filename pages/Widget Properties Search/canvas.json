@@ -5262,7 +5262,7 @@
               "widgetId": "ght6mhnqlf",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "defaultTab": "{{appsmith.store.activeTab}}",
-              "shouldShowTabs": true,
+              "shouldShowTabs": false,
               "tabsObj": {
                 "tab1": {
                   "label": "audio",
