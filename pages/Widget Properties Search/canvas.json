@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1150,
+          "bottomRow": 870,
           "containerStyle": "none",
           "snapRows": 87,
           "parentRowSpace": 1,
@@ -25,6 +25,63 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": [
+            {
+              "boxShadow": "none",
+              "widgetName": "ValueFilter",
+              "dynamicPropertyPathList": [
+                {
+                  "key": "onTextChanged"
+                }
+              ],
+              "displayName": "Input",
+              "iconSVG": "/static/media/icon.9f505595.svg",
+              "topRow": 19,
+              "bottomRow": 23,
+              "parentRowSpace": 10,
+              "labelWidth": 5,
+              "autoFocus": false,
+              "type": "INPUT_WIDGET_V2",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 20.03125,
+              "dynamicTriggerPathList": [
+                {
+                  "key": "onTextChanged"
+                }
+              ],
+              "resetOnSubmit": true,
+              "leftColumn": 22,
+              "dynamicBindingPathList": [
+                {
+                  "key": "accentColor"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "labelPosition": "Left",
+              "labelStyle": "",
+              "inputType": "TEXT",
+              "isDisabled": false,
+              "key": "mv8vjivhrs",
+              "labelTextSize": "0.875rem",
+              "isRequired": false,
+              "onTextChanged": "",
+              "isDeprecated": false,
+              "rightColumn": 42,
+              "widgetId": "0hmwf3e5u6",
+              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+              "isVisible": true,
+              "label": "Filter Values:",
+              "version": 2,
+              "parentId": "0",
+              "labelAlignment": "left",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "iconAlign": "left",
+              "defaultText": ""
+            },
             {
               "widgetName": "WidgetDump",
               "borderColor": "#18181b",
@@ -73,7 +130,7 @@
             },
             {
               "boxShadow": "none",
-              "widgetName": "KeySearch",
+              "widgetName": "KeyFilter",
               "dynamicPropertyPathList": [
                 {
                   "key": "onTextChanged"
@@ -118,7 +175,7 @@
               "widgetId": "4k8uotkb9l",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
-              "label": "Search Keys:",
+              "label": "Filter Keys:",
               "version": 2,
               "parentId": "0",
               "labelAlignment": "left",
@@ -133,7 +190,7 @@
               "borderColor": "#18181b",
               "displayName": "Text",
               "iconSVG": "/static/media/icon.97c59b52.svg",
-              "topRow": 19,
+              "topRow": 23,
               "bottomRow": 82,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
@@ -5624,8 +5681,8 @@
               "widgetName": "Text2",
               "displayName": "Text",
               "iconSVG": "/static/media/icon.97c59b52.svg",
-              "topRow": 9,
-              "bottomRow": 13,
+              "topRow": 8,
+              "bottomRow": 12,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
               "hideCard": false,
@@ -5634,7 +5691,7 @@
               "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
               "parentColumnSpace": 20.03125,
               "dynamicTriggerPathList": [],
-              "leftColumn": 23,
+              "leftColumn": 26,
               "dynamicBindingPathList": [
                 {
                   "key": "fontFamily"
@@ -5645,10 +5702,10 @@
               ],
               "shouldTruncate": false,
               "truncateButtonColor": "#FFC13D",
-              "text": "Key Search",
+              "text": "Property Search",
               "key": "62hxyllxdc",
               "isDeprecated": false,
-              "rightColumn": 39,
+              "rightColumn": 38,
               "textAlign": "CENTER",
               "widgetId": "bgp2uqgun7",
               "isVisible": true,
@@ -5998,8 +6055,8 @@
                 "typography",
                 "paragraph"
               ],
-              "topRow": 3,
-              "bottomRow": 9,
+              "topRow": 0,
+              "bottomRow": 4,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
               "hideCard": false,

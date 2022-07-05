@@ -20,7 +20,7 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "() => {\n  return utils.cleanResults(Object.keys(eval(utils.getRefName(WidgetSelector.selectedOptionValue))).filter(key => {\n    return key.toLowerCase().includes(KeySearch.text.toLowerCase());\n  }).map(key => {\n    return {\n      [key]: eval(utils.getRefName(WidgetSelector.selectedOptionValue))[key]\n    };\n  }));\n}",
+      "body": "() => {\n  return utils.cleanResults(Object.keys(eval(utils.getRefName(WidgetSelector.selectedOptionValue))).filter(key => {\n    return key.toLowerCase().includes(KeyFilter.text.toLowerCase());\n  }).map(key => {\n    return {\n      [key]: eval(utils.getRefName(WidgetSelector.selectedOptionValue))[key]\n    };\n  }));\n}",
       "jsArguments": [],
       "isAsync": false
     },
@@ -34,7 +34,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "() => {\n  return utils.cleanResults(Object.keys(eval(utils.getRefName(WidgetSelector.selectedOptionValue))).filter(key => {\n    return key.toLowerCase().includes(KeySearch.text.toLowerCase());\n  }).map(key => {\n    return {\n      [key]: eval(utils.getRefName(WidgetSelector.selectedOptionValue))[key]\n    };\n  }));\n}"
+      "() => {\n  return utils.cleanResults(Object.keys(eval(utils.getRefName(WidgetSelector.selectedOptionValue))).filter(key => {\n    return key.toLowerCase().includes(KeyFilter.text.toLowerCase());\n  }).map(key => {\n    return {\n      [key]: eval(utils.getRefName(WidgetSelector.selectedOptionValue))[key]\n    };\n  }));\n}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
