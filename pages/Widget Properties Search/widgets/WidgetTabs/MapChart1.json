@@ -1,0 +1,78 @@
+{
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 25,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "colorRange": [
+    {
+      "code": "#FFD74D",
+      "maxValue": 1,
+      "minValue": 0.5
+    },
+    {
+      "code": "#FB8C00",
+      "maxValue": 2,
+      "minValue": 1
+    },
+    {
+      "code": "#E65100",
+      "maxValue": 3,
+      "minValue": 2
+    }
+  ],
+  "data": [
+    {
+      "id": "NA",
+      "value": ".82"
+    },
+    {
+      "id": "SA",
+      "value": "2.04"
+    },
+    {
+      "id": "AS",
+      "value": "1.78"
+    },
+    {
+      "id": "EU",
+      "value": ".40"
+    },
+    {
+      "id": "AF",
+      "value": "2.58"
+    },
+    {
+      "id": "AU",
+      "value": "1.30"
+    }
+  ],
+  "displayName": "Map Chart",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.16600780.svg",
+  "isCanvas": false,
+  "isDeprecated": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "oqx0ftkjpl",
+  "leftColumn": 16,
+  "mapTitle": "Global Population",
+  "mapType": "WORLD",
+  "parentColumnSpace": 20.03125,
+  "parentId": "jh332km2jn",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 49,
+  "showLabels": true,
+  "topRow": 10,
+  "type": "MAP_CHART_WIDGET",
+  "version": 1,
+  "widgetId": "d8p1v086ax",
+  "widgetName": "MapChart1"
+}

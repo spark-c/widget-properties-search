@@ -1,0 +1,38 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 12,
+  "displayName": "Text",
+  "dynamicBindingPathList": [
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "0.75rem",
+  "fontStyle": "BOLD",
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.97c59b52.svg",
+  "isDeprecated": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "bdlxay9knb",
+  "leftColumn": 1,
+  "overflow": "NONE",
+  "parentId": "7d55bb2rze",
+  "renderMode": "CANVAS",
+  "rightColumn": 37,
+  "shouldTruncate": false,
+  "text": "21% more than last month",
+  "textAlign": "LEFT",
+  "textColor": "#03B365",
+  "topRow": 8,
+  "truncateButtonColor": "#FFC13D",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "kwezyny94x",
+  "widgetName": "Text9"
+}

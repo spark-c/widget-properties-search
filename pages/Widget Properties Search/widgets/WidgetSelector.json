@@ -1,0 +1,62 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 24,
+  "boxShadow": "none",
+  "defaultOptionValue": "{{WidgetTabs.selectedTab}}",
+  "displayName": "Select",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "options"
+    },
+    {
+      "key": "defaultOptionValue"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "onOptionChange"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onOptionChange"
+    }
+  ],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.bd99caba.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isFilterable": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "xouuttkmec",
+  "labelAlignment": "left",
+  "labelPosition": "Left",
+  "labelText": "",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 45,
+  "onOptionChange": "{{storeValue('activeTab', WidgetSelector.selectedOptionValue)}}",
+  "options": "{{[\"audio\",\n\"audio recorder\",\n\"button\",\n\"button group\",\n\"camera chart\",\n\"checkbox\",\n\"checkbox group\",\n\"container\",\n\"currency input\",\n\"datepicker\",\n\"divider\",\n\"document viewer\",\n\"form\",\n\"filepicker\",\n\"icon button\",\n\"iframe\",\n\"image\",\n\"input\",\n\"json form\",\n\"list\",\n\"maps\",\n\"mapchart\",\n\"menu button\",\n\"modal\",\n\"multi-select\",\n\"multi-tree-select\",\n\"phone input\",\n\"progress\",\n\"radio group\",\n\"rating\",\n\"rich text editor\",\n\"select\",\n\"stat box\",\n\"switch\",\n\"switch group\",\n\"tabs\",\n\"table\",\n\"text\",\n\"tree-select\",\n\"video\"].map(str => {\n\treturn {\n\t\tlabel: str,\n\t\tvalue: str\n\t}\n})}}",
+  "parentColumnSpace": 20.03125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "placeholderText": "Select option",
+  "renderMode": "CANVAS",
+  "rightColumn": 61,
+  "serverSideFiltering": false,
+  "topRow": 20,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "pnm3bwl090",
+  "widgetName": "WidgetSelector"
+}

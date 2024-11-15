@@ -1,0 +1,1915 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 66,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "children": [
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": true,
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isDisabled": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 480.75,
+      "shouldScrollContents": false,
+      "tabId": "tab1",
+      "tabName": "audio",
+      "topRow": 0,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "t6zcd687cp",
+      "widgetName": "Canvas1"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": true,
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isDisabled": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 480.75,
+      "shouldScrollContents": false,
+      "tabId": "tab2",
+      "tabName": "audio recorder",
+      "topRow": 0,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "k50711vs8b",
+      "widgetName": "Canvas2"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 401,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabxtfc91qhyb",
+      "tabName": "button",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "v07r79r2kq",
+      "widgetName": "Canvas3"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 401,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabwyk8j8473n",
+      "tabName": "button group",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "fbbbwx6nmg",
+      "widgetName": "Canvas4"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab0cthj00zxg",
+      "tabName": "camera",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "kp25of5573",
+      "widgetName": "Canvas5"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab6z2djuh8sa",
+      "tabName": "chart",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "m9pv8hulce",
+      "widgetName": "Canvas6"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabui4rwusnjl",
+      "tabName": "checkbox",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "petywieafg",
+      "widgetName": "Canvas7"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab3uj0wynh73",
+      "tabName": "checkbox group",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "4d04puhux2",
+      "widgetName": "Canvas8"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab6xfhdqjtug",
+      "tabName": "container",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "h7oqyqvoni",
+      "widgetName": "Canvas9"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab5r73b9d8vz",
+      "tabName": "currency input",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "8lvzgiyx20",
+      "widgetName": "Canvas10"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabzgzh2nzq9j",
+      "tabName": "datepicker",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "gfxnw3mbbz",
+      "widgetName": "Canvas11"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabsvok405g5c",
+      "tabName": "divider",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "cdehe3cbbj",
+      "widgetName": "Canvas12"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab0f0t8484hw",
+      "tabName": "document viewer",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "hm91ugu4df",
+      "widgetName": "Canvas13"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabpmg745mles",
+      "tabName": "filepicker",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "lvcnsnsrv8",
+      "widgetName": "Canvas14"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabd7xwo7gwuw",
+      "tabName": "form",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "r9x8jkfpx9",
+      "widgetName": "Canvas15"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabn11dn6tznb",
+      "tabName": "icon button",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "mxegd7chqw",
+      "widgetName": "Canvas16"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab78ifl4ak1n",
+      "tabName": "iframe",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "evzsbxdfnk",
+      "widgetName": "Canvas17"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabtqe1vyhltt",
+      "tabName": "image",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "jlge9n4px9",
+      "widgetName": "Canvas18"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabcjklvgfqpk",
+      "tabName": "input",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "o7gakfef7p",
+      "widgetName": "Canvas19"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "18cqd1hb8s",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab1wxzlg9sa8",
+      "tabName": "json form",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "pgbao5x7lk",
+      "widgetName": "Canvas20"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "taba6pzgjf85o",
+      "tabName": "list",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "5e6y764v3t",
+      "widgetName": "Canvas23"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabrnaw6cprvu",
+      "tabName": "map",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "vg7mpk43qp",
+      "widgetName": "Canvas24"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabca59mnfkxr",
+      "tabName": "map chart",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "jh332km2jn",
+      "widgetName": "Canvas25"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabgn2cmrx119",
+      "tabName": "menu button",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "g8t7qknv1k",
+      "widgetName": "Canvas26"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 401,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab2yis864vwd",
+      "tabName": "modal",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "19nlqatxok",
+      "widgetName": "Canvas27"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabgu9cfyxne7",
+      "tabName": "multi-tree-select",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "qlcb83f6lr",
+      "widgetName": "Canvas30"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab3rvjkw112a",
+      "tabName": "multi-select",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "cywlwv0e3q",
+      "widgetName": "Canvas31"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab4jrk587pk4",
+      "tabName": "phone input",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "ze7cf5wzm0",
+      "widgetName": "Canvas32"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabvv7tdfdxg0",
+      "tabName": "progress",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "o10cz9lz9o",
+      "widgetName": "Canvas33"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab0sckromuw1",
+      "tabName": "radio group",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "3crmxptj4b",
+      "widgetName": "Canvas34"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabut2kd6xyug",
+      "tabName": "rating",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "zad350awur",
+      "widgetName": "Canvas35"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab3uiajxmq3y",
+      "tabName": "rich text editor",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "ul9kpq36ws",
+      "widgetName": "Canvas36"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab0ocj75axzj",
+      "tabName": "select",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "wrg79xdaqw",
+      "widgetName": "Canvas37"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab2smvod83un",
+      "tabName": "stats box",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "ee35oo31pi",
+      "widgetName": "Canvas38"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "taby1q1p7cdvy",
+      "tabName": "switch",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "svgyirglsk",
+      "widgetName": "Canvas39"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabqynhainpt4",
+      "tabName": "switch group",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "553y4oh7h6",
+      "widgetName": "Canvas41"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabzimiltdrw3",
+      "tabName": "table",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "ixk7hf7pi0",
+      "widgetName": "Canvas42"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabu61x3ws8nx",
+      "tabName": "tabs",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "sqvg9dg2db",
+      "widgetName": "Canvas43"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabntwh9ij7iu",
+      "tabName": "text",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "l4ax5gajbu",
+      "widgetName": "Canvas44"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tabagc01tdclc",
+      "tabName": "tree-select",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "a77p1h8dai",
+      "widgetName": "Canvas45"
+    },
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "dynamicTriggerPathList": [],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 400,
+      "parentColumnSpace": 1,
+      "parentId": "ght6mhnqlf",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 380.59375,
+      "tabId": "tab8v36u0m9rh",
+      "tabName": "video",
+      "topRow": 1,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "iuubsnr6w2",
+      "widgetName": "Canvas46"
+    }
+  ],
+  "defaultTab": "{{appsmith.store.activeTab}}",
+  "displayName": "Tabs",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    },
+    {
+      "key": "defaultTab"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.74a6d653.svg",
+  "isCanvas": true,
+  "isDeprecated": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "4fiqgumv0e",
+  "leftColumn": 44,
+  "parentColumnSpace": 20.03125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 63,
+  "shouldScrollContents": false,
+  "shouldShowTabs": false,
+  "tabsObj": {
+    "tab0cthj00zxg": {
+      "id": "tab0cthj00zxg",
+      "index": 4,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "camera",
+      "widgetId": "kp25of5573"
+    },
+    "tab0f0t8484hw": {
+      "id": "tab0f0t8484hw",
+      "index": 12,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "document viewer",
+      "widgetId": "hm91ugu4df"
+    },
+    "tab0ocj75axzj": {
+      "id": "tab0ocj75axzj",
+      "index": 32,
+      "isVisible": true,
+      "label": "select",
+      "widgetId": "wrg79xdaqw"
+    },
+    "tab0sckromuw1": {
+      "id": "tab0sckromuw1",
+      "index": 29,
+      "isVisible": true,
+      "label": "radio group",
+      "widgetId": "3crmxptj4b"
+    },
+    "tab1": {
+      "id": "tab1",
+      "index": 0,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "audio",
+      "widgetId": "t6zcd687cp"
+    },
+    "tab1wxzlg9sa8": {
+      "id": "tab1wxzlg9sa8",
+      "index": 19,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "json form",
+      "widgetId": "pgbao5x7lk"
+    },
+    "tab2": {
+      "id": "tab2",
+      "index": 1,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "audio recorder",
+      "widgetId": "k50711vs8b"
+    },
+    "tab2smvod83un": {
+      "id": "tab2smvod83un",
+      "index": 33,
+      "isVisible": true,
+      "label": "stats box",
+      "widgetId": "ee35oo31pi"
+    },
+    "tab2yis864vwd": {
+      "id": "tab2yis864vwd",
+      "index": 24,
+      "isVisible": true,
+      "label": "modal",
+      "widgetId": "19nlqatxok"
+    },
+    "tab3rvjkw112a": {
+      "id": "tab3rvjkw112a",
+      "index": 26,
+      "isVisible": true,
+      "label": "multi-select",
+      "widgetId": "cywlwv0e3q"
+    },
+    "tab3uiajxmq3y": {
+      "id": "tab3uiajxmq3y",
+      "index": 31,
+      "isVisible": true,
+      "label": "rich text editor",
+      "widgetId": "ul9kpq36ws"
+    },
+    "tab3uj0wynh73": {
+      "id": "tab3uj0wynh73",
+      "index": 7,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "checkbox group",
+      "widgetId": "4d04puhux2"
+    },
+    "tab4jrk587pk4": {
+      "id": "tab4jrk587pk4",
+      "index": 27,
+      "isVisible": true,
+      "label": "phone input",
+      "widgetId": "ze7cf5wzm0"
+    },
+    "tab5r73b9d8vz": {
+      "id": "tab5r73b9d8vz",
+      "index": 9,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "currency input",
+      "widgetId": "8lvzgiyx20"
+    },
+    "tab6xfhdqjtug": {
+      "id": "tab6xfhdqjtug",
+      "index": 8,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "container",
+      "widgetId": "h7oqyqvoni"
+    },
+    "tab6z2djuh8sa": {
+      "id": "tab6z2djuh8sa",
+      "index": 5,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "chart",
+      "widgetId": "m9pv8hulce"
+    },
+    "tab78ifl4ak1n": {
+      "id": "tab78ifl4ak1n",
+      "index": 16,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "iframe",
+      "widgetId": "evzsbxdfnk"
+    },
+    "tab8v36u0m9rh": {
+      "id": "tab8v36u0m9rh",
+      "index": 40,
+      "isVisible": true,
+      "label": "video",
+      "widgetId": "iuubsnr6w2"
+    },
+    "taba6pzgjf85o": {
+      "id": "taba6pzgjf85o",
+      "index": 20,
+      "isVisible": true,
+      "label": "list",
+      "widgetId": "5e6y764v3t"
+    },
+    "tabagc01tdclc": {
+      "id": "tabagc01tdclc",
+      "index": 39,
+      "isVisible": true,
+      "label": "tree-select",
+      "widgetId": "a77p1h8dai"
+    },
+    "tabca59mnfkxr": {
+      "id": "tabca59mnfkxr",
+      "index": 22,
+      "isVisible": true,
+      "label": "map chart",
+      "widgetId": "jh332km2jn"
+    },
+    "tabcjklvgfqpk": {
+      "id": "tabcjklvgfqpk",
+      "index": 18,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "input",
+      "widgetId": "o7gakfef7p"
+    },
+    "tabd7xwo7gwuw": {
+      "id": "tabd7xwo7gwuw",
+      "index": 14,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "form",
+      "widgetId": "r9x8jkfpx9"
+    },
+    "tabgn2cmrx119": {
+      "id": "tabgn2cmrx119",
+      "index": 23,
+      "isVisible": true,
+      "label": "menu button",
+      "widgetId": "g8t7qknv1k"
+    },
+    "tabgu9cfyxne7": {
+      "id": "tabgu9cfyxne7",
+      "index": 25,
+      "isVisible": true,
+      "label": "multi-tree-select",
+      "widgetId": "qlcb83f6lr"
+    },
+    "tabn11dn6tznb": {
+      "id": "tabn11dn6tznb",
+      "index": 15,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "icon button",
+      "widgetId": "mxegd7chqw"
+    },
+    "tabntwh9ij7iu": {
+      "id": "tabntwh9ij7iu",
+      "index": 38,
+      "isVisible": true,
+      "label": "text",
+      "widgetId": "l4ax5gajbu"
+    },
+    "tabpmg745mles": {
+      "id": "tabpmg745mles",
+      "index": 13,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "filepicker",
+      "widgetId": "lvcnsnsrv8"
+    },
+    "tabqynhainpt4": {
+      "id": "tabqynhainpt4",
+      "index": 35,
+      "isVisible": true,
+      "label": "switch group",
+      "widgetId": "553y4oh7h6"
+    },
+    "tabrnaw6cprvu": {
+      "id": "tabrnaw6cprvu",
+      "index": 21,
+      "isVisible": true,
+      "label": "map",
+      "widgetId": "vg7mpk43qp"
+    },
+    "tabsvok405g5c": {
+      "id": "tabsvok405g5c",
+      "index": 11,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "divider",
+      "widgetId": "cdehe3cbbj"
+    },
+    "tabtqe1vyhltt": {
+      "id": "tabtqe1vyhltt",
+      "index": 17,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "image",
+      "widgetId": "jlge9n4px9"
+    },
+    "tabu61x3ws8nx": {
+      "id": "tabu61x3ws8nx",
+      "index": 37,
+      "isVisible": true,
+      "label": "tabs",
+      "widgetId": "sqvg9dg2db"
+    },
+    "tabui4rwusnjl": {
+      "id": "tabui4rwusnjl",
+      "index": 6,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "checkbox",
+      "widgetId": "petywieafg"
+    },
+    "tabut2kd6xyug": {
+      "id": "tabut2kd6xyug",
+      "index": 30,
+      "isVisible": true,
+      "label": "rating",
+      "widgetId": "zad350awur"
+    },
+    "tabvv7tdfdxg0": {
+      "id": "tabvv7tdfdxg0",
+      "index": 28,
+      "isVisible": true,
+      "label": "progress",
+      "widgetId": "o10cz9lz9o"
+    },
+    "tabwyk8j8473n": {
+      "id": "tabwyk8j8473n",
+      "index": 3,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "button group",
+      "widgetId": "fbbbwx6nmg"
+    },
+    "tabxtfc91qhyb": {
+      "id": "tabxtfc91qhyb",
+      "index": 2,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "button",
+      "widgetId": "v07r79r2kq"
+    },
+    "taby1q1p7cdvy": {
+      "id": "taby1q1p7cdvy",
+      "index": 34,
+      "isVisible": true,
+      "label": "switch",
+      "widgetId": "svgyirglsk"
+    },
+    "tabzgzh2nzq9j": {
+      "id": "tabzgzh2nzq9j",
+      "index": 10,
+      "isDuplicateLabel": false,
+      "isVisible": true,
+      "label": "datepicker",
+      "widgetId": "gfxnw3mbbz"
+    },
+    "tabzimiltdrw3": {
+      "id": "tabzimiltdrw3",
+      "index": 36,
+      "isVisible": true,
+      "label": "table",
+      "widgetId": "ixk7hf7pi0"
+    }
+  },
+  "topRow": 26,
+  "type": "TABS_WIDGET",
+  "version": 3,
+  "widgetId": "ght6mhnqlf",
+  "widgetName": "WidgetTabs"
+}

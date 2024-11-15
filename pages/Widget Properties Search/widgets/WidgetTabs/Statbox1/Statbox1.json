@@ -1,0 +1,70 @@
+{
+  "animateLoading": true,
+  "backgroundColor": "white",
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 23,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "children": [
+    {
+      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 140,
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "accentColor"
+        }
+      ],
+      "hideCard": true,
+      "isDeprecated": false,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8tt50j9lv3",
+      "leftColumn": 0,
+      "minHeight": 140,
+      "parentColumnSpace": 1,
+      "parentId": "51ftd1ez94",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "rightColumn": 90.1484375,
+      "topRow": 0,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "7d55bb2rze",
+      "widgetName": "Canvas47"
+    }
+  ],
+  "displayName": "Stats Box",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.382a7c7b.svg",
+  "isCanvas": true,
+  "isDeprecated": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "b1nlxxvyud",
+  "leftColumn": 14,
+  "parentColumnSpace": 5.63427734375,
+  "parentId": "ee35oo31pi",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 55,
+  "topRow": 9,
+  "type": "STATBOX_WIDGET",
+  "widgetId": "51ftd1ez94",
+  "widgetName": "Statbox1"
+}

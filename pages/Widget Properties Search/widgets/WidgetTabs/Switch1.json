@@ -1,0 +1,34 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "alignWidget": "LEFT",
+  "animateLoading": true,
+  "bottomRow": 19,
+  "boxShadow": "none",
+  "defaultSwitchState": true,
+  "displayName": "Switch",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    }
+  ],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.a3115bc1.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "qpznv103j6",
+  "label": "Label",
+  "labelPosition": "Left",
+  "leftColumn": 23,
+  "parentColumnSpace": 5.63427734375,
+  "parentId": "svgyirglsk",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 45,
+  "topRow": 15,
+  "type": "SWITCH_WIDGET",
+  "version": 1,
+  "widgetId": "wub3tc5pwc",
+  "widgetName": "Switch1"
+}

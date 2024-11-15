@@ -1,0 +1,49 @@
+{
+  "allowZoom": true,
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 24,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "defaultMarkers": [
+    {
+      "lat": 25.122,
+      "long": 50.132,
+      "title": "Location1"
+    }
+  ],
+  "displayName": "Map",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "enablePickLocation": true,
+  "enableSearch": true,
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.ddde7d1b.svg",
+  "isClickedMarkerCentered": true,
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "chlw6vh9vj",
+  "leftColumn": 15,
+  "mapCenter": {
+    "lat": 25.122,
+    "long": 50.132
+  },
+  "parentColumnSpace": 20.03125,
+  "parentId": "vg7mpk43qp",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 45,
+  "topRow": 7,
+  "type": "MAP_WIDGET",
+  "version": 1,
+  "widgetId": "3de7d2hwzl",
+  "widgetName": "Map1",
+  "zoomLevel": 50
+}
